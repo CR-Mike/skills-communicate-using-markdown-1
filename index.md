@@ -6,3 +6,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [x] A task list starts with the syntax \- [ ] and then the task list item
+- [x] x inside \[ ] checks the item
+- [ ] This item is not checked
